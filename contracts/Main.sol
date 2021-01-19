@@ -3,11 +3,11 @@ pragma experimental ABIEncoderV2;
 
 contract Main {
     struct TheStruct {
-       uint256 a;
+        uint256 a;
     }
 
     function foo(TheStruct s) external pure returns (uint256) {
-       return s.a;
-	}
+        return s.a;
+    }
 }
 

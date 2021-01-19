@@ -1,1 +1,7 @@
-# unimplemented-feature-error
+# UnimplementedFeatureError:
+
+
+```bash
+npm install
+npm run build
+```
